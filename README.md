@@ -5,6 +5,20 @@ Tensorflow KR의 논문 발표 모음집
 ## 발표자 목록
 * Jaejun Yoo
 * Terry Taewoong Um
+* Keunbong Kwak
+* Taegyun Jeon
+* Sung Kim
+* Kiho Suh
+* Seungil Kim
+* Dongjun Jung
+* Youngjae Choung
+* 차준범
+* Jiyang Kang
+* Jinwon Lee
+* Jihoon Kim
+* Taesu Kim
+* Byung-hak Kim
+* 이광희
 
 
 ## 발표 목록
@@ -14,7 +28,7 @@ Tensorflow KR의 논문 발표 모음집
 
 
 
-- [PR-002 : Deformable Convolutional networks](https://youtu.be/RRwaz0fBQ0Y)
+- [PR-002: Deformable Convolutional networks](https://youtu.be/RRwaz0fBQ0Y)
     - 발표자: Terry Taewoong Um
     - https://arxiv.org/abs/1703.06211
         - https://www.slideshare.net/TerryTaewoongUm/deformable-convolutional-network-2017
@@ -26,22 +40,22 @@ Tensorflow KR의 논문 발표 모음집
         - https://www.slideshare.net/keunbongkwak/learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation
 
 
-- [PR-004 : Image Super-Resolution Using Deep Convolutional Networks](https://youtu.be/1jGr_OFyfa0)
+- [PR-004: Image Super-Resolution Using Deep Convolutional Networks](https://youtu.be/1jGr_OFyfa0)
     - 발표자: Taegyun Jeon
     - https://arxiv.org/pdf/1501.00092
 
 
-- [PR-005 : Playing Atari with Deep Reinforcement Learning](https://youtu.be/V7_cNTfm2i8)
+- [PR-005: Playing Atari with Deep Reinforcement Learning](https://youtu.be/V7_cNTfm2i8)
     - 발표자: Sung Kim
     - https://arxiv.org/abs/1312.5602
         - https://slack-files.com/T1UHM6UEN-F5ALD2W6T-7306fcba70
 
 
-- [PR-006 : Neural Turing Machine](https://youtu.be/2wbDiZCWQtY)
+- [PR-006: Neural Turing Machine](https://youtu.be/2wbDiZCWQtY)
     - 발표자: Kiho Suh
     - https://arxiv.org/abs/1410.5401
 
-- [PR-007 : Deep Photo Style Transfer](https://youtu.be/YF6nLVDlznE)
+- [PR-007: Deep Photo Style Transfer](https://youtu.be/YF6nLVDlznE)
     - 발표자: Seungil Kim
     - https://arxiv.org/abs/1703.07511
         - http://www.modulabs.co.kr/DeepLAB_Paper/15096
@@ -172,235 +186,232 @@ Tensorflow KR의 논문 발표 모음집
     - https://arxiv.org/pdf/1609.04802.pdf
         - http://www.modulabs.co.kr/DeepLAB_Paper/15591
 
-차준범
-PR-031: Learning to learn by gradient descent by gradient descent
-https://youtu.be/p55H46RiZ6k
-https://arxiv.org/abs/1606.04474
 
-Jiyang Kang
-PR-032: Deep Visual-Semantic Alignments for Generating Image Descriptions
-https://youtu.be/Q-Cm7nw85iE
-https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
-
-Jinwon Lee
-PR-033: PVANet: Lightweight Deep Neural Networks for Real-time Object Detection
-https://youtu.be/TYDGTnxUGHQ
-https://arxiv.org/abs/1611.08588
-https://www.slideshare.net/JinwonLee9/pr12-pva-net
-
-Jaejun Yoo
-PR-034: Inception and Xception
-https://youtu.be/V0dLhyg5_Dw
-https://arxiv.org/abs/1409.4842
-https://arxiv.org/abs/1610.02357
-https://www.slideshare.net/thinkingfactory/pr12-inception-and-xception-jaejun-yoo
-
-Terry
-PR-035: Understanding Black-box Predictions via Influence Functions
-https://youtu.be/ZEX08zhxdQ0
-https://arxiv.org/abs/1703.04730
-https://www.slideshare.net/TerryTaewoongUm/understanding-blackbox-predictions-via-influence-functions-2017
-
-Taegyun Jeon
-PR-036: Learning to Remember Rare Events
-https://arxiv.org/abs/1703.03129
-https://youtu.be/S_fbBYbXypc
-https://www.slideshare.net/TaegyunJeon1/pr12-pr036-learning-to-remember-rare-events
+- [PR-031: Learning to learn by gradient descent by gradient descent](https://youtu.be/p55H46RiZ6k)
+    - 발표자: 차준범
+    - https://arxiv.org/abs/1606.04474
 
 
-Keunbong Kwak
-PR-037: Ask me anything: Dynamic memory networks for natural language processing
-https://youtu.be/oxSrjuspQEs
-https://arxiv.org/abs/1506.07285
-https://www.slideshare.net/keunbongkwak/ask-me-anything-dynamic-memory-networks-for-natural-language-processing
-
-Kiho Suh
-PR-038: Explaining and Harnessing Adversarial Examples
-https://youtu.be/7hRO2bS810M
-https://arxiv.org/abs/1412.6572
-https://drive.google.com/file/d/0B1ay5kXWGF_9WnBmd3NuemN5M2s/view
-
-차준범
-PR-039: Dropout as a Bayesian approximation:Representing Model Uncertainty in Deep Learning
-https://youtu.be/aU91bDGmy7I
-https://arxiv.org/abs/1506.02142
+- [PR-032: Deep Visual-Semantic Alignments for Generating Image Descriptions](https://youtu.be/Q-Cm7nw85iE)
+    - 발표자: Jiyang Kang
+    - https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
 
 
-Seungil Kim
-PR-040: WaveNet - A Generative Model for Raw Audio
-https://arxiv.org/abs/1609.03499
-https://youtu.be/GyQnex_DK2k
-http://www.modulabs.co.kr/DeepLAB_Paper/16552
-
-Jiyang Kang
-PR-041: Show and Tell: A Neural Image Caption Generator
-https://youtu.be/BrmCnoYhQb4
-https://arxiv.org/abs/1411.4555
-
-Jihoon Kim
-PR-042: Adam: A Method for Stochastic Optimization
-https://youtu.be/KN120w3PZIA
-https://arxiv.org/abs/1412.6980
-
-Taesu Kim
-PR-043: HyperNetworks
-https://arxiv.org/abs/1609.09106
-https://www.slideshare.net/TaesuKim3/pr043-hypernetworks
-
-Jinwon Lee
-PR-044: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-https://youtu.be/7UoOFKcyIvM
-https://arxiv.org/abs/1704.04861
-https://www.slideshare.net/JinwonLee9/mobilenet-pr044
-
-Taeoh Kim
-PR-045: DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-https://arxiv.org/abs/1606.00915
-https://youtu.be/JiC78rUF4iI
-https://www.slideshare.net/TaeohKim4/pr045-deep-labsemanticsegmentation
+- [PR-033: PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://youtu.be/TYDGTnxUGHQ)
+    - 발표자: Jinwon Lee
+    - https://arxiv.org/abs/1611.08588
+        -https://www.slideshare.net/JinwonLee9/pr12-pva-net
 
 
-Byung-hak Kim
-PR-046: Deep Knowledge Tracing
-https://youtu.be/8hdY6Jns5-k
-https://arxiv.org/abs/1506.05908
+- [PR-034: Inception and Xception](https://youtu.be/V0dLhyg5_Dw)
+    - 발표자: Jaejun Yoo
+    - https://arxiv.org/abs/1409.4842
+    - https://arxiv.org/abs/1610.02357
+       - https://www.slideshare.net/thinkingfactory/pr12-inception-and-xception-jaejun-yoo
 
-이광희
-PR-047: Learning Deep Features for Discriminative Localization
-https://youtu.be/-Z1NIzLxgRU
-http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
 
-Ji-hoon Kim
-PR-048: Towards Principled Methods for Training Generative Adversarial Networks
-https://youtu.be/RlAgB0Ooxaw
-https://arxiv.org/abs/1701.04862
+- [PR-035: Understanding Black-box Predictions via Influence Functions](https://youtu.be/ZEX08zhxdQ0)
+    - 발표자: Terry Taewoong Um
+    - https://arxiv.org/abs/1703.04730
+    - https://www.slideshare.net/TerryTaewoongUm/understanding-blackbox-predictions-via-influence-functions-2017
 
-Kiho Suh
-PR-049: Attention is All You Need
-https://youtu.be/6zGgVIlStXs
-https://arxiv.org/pdf/1706.03762.pdf
-https://drive.google.com/file/d/1b_nak_UQVgLua5z1cBas3q3ppd6SX7ud/view?usp=sharing
 
-Taegyun Jeon
-PR-050: Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
-https://youtu.be/3cFfCM4CXws
-https://arxiv.org/abs/1506.04214
-https://www.slideshare.net/TaegyunJeon1/pr12-pr050-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting
+- [PR-036: Learning to Remember Rare Events](https://youtu.be/S_fbBYbXypc)
+    - 발표자: Taegyun Jeon
+    - https://arxiv.org/abs/1703.03129
+        - https://www.slideshare.net/TaegyunJeon1/pr12-pr036-learning-to-remember-rare-events
 
-Seungil Kim
-PR-051: Conditional Generative Adversarial Nets
-https://youtu.be/iCgT8G4PkqI
-https://arxiv.org/pdf/1411.1784.pdf
-http://www.modulabs.co.kr/DeepLAB_Paper/17216
 
-Taesu Kim
-PR-053: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
-https://youtu.be/faGsrPX1yFM
-https://arxiv.org/abs/1610.02391
-https://www.slideshare.net/TaesuKim3/pr052-gradcam-visual-explanations-from-deep-networks-via-gradientbased-localization
 
-Jinwon Lee
-PR-054: ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
-https://youtu.be/pNuBdj53Hbc
-https://arxiv.org/abs/1707.01083
-https://www.slideshare.net/JinwonLee9/shufflenet-pr054
+- [PR-037: Ask me anything: Dynamic memory networks for natural language processing](https://youtu.be/oxSrjuspQEs)
+    - 발표자: Keunbong Kwak
+    - https://arxiv.org/abs/1506.07285
+        - https://www.slideshare.net/keunbongkwak/ask-me-anything-dynamic-memory-networks-for-natural-language-processing
 
-Jiyang Kang
-PR-055: Neural Machine Translation by Jointly Learning to Align and Translate
-https://youtu.be/upskBSbA9cA
-https://arxiv.org/abs/1409.0473
 
-Jaejun Yoo
-PR-056: Capsule Network(Dynamic Routing Between Capsules)
-https://youtu.be/_YT_8CT2w_Q
-https://arxiv.org/abs/1710.09829
-https://www.slideshare.net/thinkingfactory/pr12-capsule-networks-jaejun-yoo
+- [PR-038: Explaining and Harnessing Adversarial Examples](https://youtu.be/7hRO2bS810M)
+    - 발표자: Kiho Suh
+    - https://arxiv.org/abs/1412.6572
+        - https://drive.google.com/file/d/0B1ay5kXWGF_9WnBmd3NuemN5M2s/view
 
-Taeoh Kim
-PR-057: Mask R-CNN
-https://youtu.be/RtSZALC9DlU
-https://arxiv.org/abs/1703.06870
-https://www.slideshare.net/TaeohKim4/pr057-mask-rcnn
 
-Byung-hak Kim
-PR-058: The Consciousness Prior
-https://youtu.be/7fIAdhl0KYc
-https://arxiv.org/abs/1709.08568
+- [PR-039: Dropout as a Bayesian approximation:Representing Model Uncertainty in Deep Learning](https://youtu.be/aU91bDGmy7I)
+    - 발표자: 차준범
+    - https://arxiv.org/abs/1506.02142
 
-Kiho Suh
-PR-059: Style Transfer from Non-Parallel Text by Cross-Alignment
-https://youtu.be/w-P2V2LlrHg
-https://arxiv.org/pdf/1705.09655.pdf
-https://drive.google.com/file/d/1zuQuhMaIJ1Qs7OKmLXamBweTzYO4jXVw/view?usp=sharing
 
-Keunbong Kwak
-PR-060: Deep Neural Networks for YouTube Recommendations
-https://youtu.be/V6zixdCIOqw
-https://research.google.com/pubs/pub45530.html
-https://www.slideshare.net/keunbongkwak/deep-neural-networks-for-youtube-recommendations
+- [PR-040: WaveNet - A Generative Model for Raw Audio](https://youtu.be/GyQnex_DK2k)
+    - 발표자: Seungil Kim
+    - https://arxiv.org/abs/1609.03499
+    - http://www.modulabs.co.kr/DeepLAB_Paper/16552
 
-Jaejun Yoo
-PR-061: Understanding Deep Learning Requires Rethinking Generalization
-https://youtu.be/UxJNG7ENRNg
-https://arxiv.org/abs/1611.03530
-https://www.slideshare.net/thinkingfactory/pr12-understanding-deep-learning-requires-rethinking-generalization
 
-Terry
-PR-062: Deep Learning: A Critical Appraisal
-https://youtu.be/6hg5d10SZr0
-https://arxiv.org/abs/1801.00631
-https://www.slideshare.net/TerryTaewoongUm/deep-learning-a-critical-appraisal-2018
+- [PR-041: Show and Tell: A Neural Image Caption Generator](https://youtu.be/BrmCnoYhQb4)
+    - 발표자: Jiyang Kang
+    - https://arxiv.org/abs/1411.4555
 
-Taegyun Jeon
-PR-063 Peephole: Predicting Network Performance Before Training
-https://youtu.be/ZO4bXgdcCQA
-https://arxiv.org/abs/1712.03351
 
-Keunbong Kwak
-PR-064: Wide&Deep Learning for Recommender Systems
-https://youtu.be/hKoJPqWLrI4
-https://arxiv.org/abs/1606.07792
-https://www.slideshare.net/keunbongkwak/widedeep-learning-for-recommender-systems
+- [PR-042: Adam: A Method for Stochastic Optimization](https://youtu.be/KN120w3PZIA)
+    - 발표자: Jihoon Kim
+    - https://arxiv.org/abs/1412.6980
 
-이광희
-PR-065 : High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
-https://youtu.be/_5ofbwltEKU
-https://arxiv.org/abs/1711.11585
 
-차준범
+- [PR-043: HyperNetworks](https://youtu.be/-tUQXSdEsMk)
+    - 발표자: Taesu Kim
+    - https://arxiv.org/abs/1609.09106
+        - https://www.slideshare.net/TaesuKim3/pr043-hypernetworks
 
-PR-066: Don't decay the learning rate, increase the batch size
-https://youtu.be/jFpO-E4RPhQ
-https://arxiv.org/abs/1711.00489
 
-Seungil Kim
-PR-067: Audio Super Resolution using Neural Networks
-https://youtu.be/iqN08EPMjSs
-https://arxiv.org/abs/1708.00853
-http://www.modulabs.co.kr/DeepLAB_Paper/18909
-https://kuleshov.github.io/audio-super-res/
+- [PR-044: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://youtu.be/7UoOFKcyIvM)
+    - 발표자: Jinwon Lee
+    - https://arxiv.org/abs/1704.04861
+        - https://www.slideshare.net/JinwonLee9/mobilenet-pr044
 
-Jiyang Kim
-PR-068: DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks
-https://youtu.be/okyo61ZZivA
-https://arxiv.org/abs/1704.04110
 
-Jinwon Lee
-PR-069: Efficient Neural Architecture Search via Parameter Sharing
-https://youtu.be/fbCcJaSQPPA
-https://arxiv.org/abs/1802.03268
-https://www.slideshare.net/JinwonLee9/efficient-neural-architecture-search-via-parameter-sharing
+- [PR-045: DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://youtu.be/JiC78rUF4iI)
+    - 발표자: Taeoh Kim
+    - https://arxiv.org/abs/1606.00915
+        - https://www.slideshare.net/TaeohKim4/pr045-deep-labsemanticsegmentation
 
-Taesu Kim
-PR-070: SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud
-https://youtu.be/CtaPFqq8P00
-https://arxiv.org/abs/1706.10268
-https://www.slideshare.net/TaesuKim3/pr070-safetynets-verifiable-execution-of-deep-neural-networks-on-an-untrusted-cloud
 
-Jaejun Yoo
-PR-071: Categorical Reparameterization with Gumbel Softmax
-https://youtu.be/ty3SciyoIyk
-https://arxiv.org/abs/1611.01144
-https://arxiv.org/abs/1611.00712
-https://www.slideshare.net/thinkingfactory/pr12-categorical-reparameterization-with-gumbel-softmax
+
+- [PR-046: Deep Knowledge Tracing](https://youtu.be/8hdY6Jns5-k)
+    - 발표자: Byung-hak Kim
+    - https://arxiv.org/abs/1506.05908
+
+
+- [PR-047: Learning Deep Features for Discriminative Localization](https://youtu.be/-Z1NIzLxgRU)
+    - 발표자: 이광희
+    - http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
+
+
+- [PR-048: Towards Principled Methods for Training Generative Adversarial Networks](https://youtu.be/RlAgB0Ooxaw)
+    - 발표자: Jihoon Kim
+    - https://arxiv.org/abs/1701.04862
+
+
+- [PR-049: Attention is All You Need](https://youtu.be/6zGgVIlStXs)
+    - 발표자: Kiho Suh
+    - https://arxiv.org/pdf/1706.03762.pdf
+        - https://drive.google.com/file/d/1b_nak_UQVgLua5z1cBas3q3ppd6SX7ud/view?usp=sharing
+
+
+- [PR-050: Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://youtu.be/3cFfCM4CXws)
+    - 발표자: Taegyun Jeon
+    - https://arxiv.org/abs/1506.04214
+        - https://www.slideshare.net/TaegyunJeon1/pr12-pr050-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting
+
+
+- [PR-051: Conditional Generative Adversarial Nets](https://youtu.be/iCgT8G4PkqI)
+    - 발표자: Seungil Kim
+    - https://arxiv.org/pdf/1411.1784.pdf
+        - http://www.modulabs.co.kr/DeepLAB_Paper/17216
+
+- PR-052: not found
+
+- [PR-053: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://youtu.be/faGsrPX1yFM)
+    - 발표자: Taesu Kim
+    - https://arxiv.org/abs/1610.02391
+        - https://www.slideshare.net/TaesuKim3/pr052-gradcam-visual-explanations-from-deep-networks-via-gradientbased-localization
+
+- [PR-054: ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://youtu.be/pNuBdj53Hbc)
+    - 발표자: Jinwon Lee
+    - https://arxiv.org/abs/1707.01083
+        - https://www.slideshare.net/JinwonLee9/shufflenet-pr054
+
+
+- [PR-055: Neural Machine Translation by Jointly Learning to Align and Translate](https://youtu.be/upskBSbA9cA)
+    - 발표자: Jiyang Kang
+    - https://arxiv.org/abs/1409.0473
+
+
+- [PR-056: Capsule Network(Dynamic Routing Between Capsules)](https://youtu.be/_YT_8CT2w_Q)
+    - 발표자: Jaejun Yoo
+    - https://arxiv.org/abs/1710.09829
+        - https://www.slideshare.net/thinkingfactory/pr12-capsule-networks-jaejun-yoo
+
+
+- [PR-057: Mask R-CNN](https://youtu.be/RtSZALC9DlU)
+    - 발표자: Taeoh Kim
+    - https://arxiv.org/abs/1703.06870
+        - https://www.slideshare.net/TaeohKim4/pr057-mask-rcnn
+
+- [PR-058: The Consciousness Prior](https://youtu.be/7fIAdhl0KYc)
+    - 발표자: Byung-hak Kim
+    - https://arxiv.org/abs/1709.08568
+
+
+- [PR-059: Style Transfer from Non-Parallel Text by Cross-Alignment](https://youtu.be/w-P2V2LlrHg)
+    - 발표자: Kiho Suh
+    - https://arxiv.org/pdf/1705.09655.pdf
+        - https://drive.google.com/file/d/1zuQuhMaIJ1Qs7OKmLXamBweTzYO4jXVw/view?usp=sharing
+
+
+- [PR-060: Deep Neural Networks for YouTube Recommendations](https://youtu.be/V6zixdCIOqw)
+    - 발표자: Keunbong Kwak
+    - https://research.google.com/pubs/pub45530.html
+        - https://www.slideshare.net/keunbongkwak/deep-neural-networks-for-youtube-recommendations
+
+
+- [PR-061: Understanding Deep Learning Requires Rethinking Generalization](https://youtu.be/UxJNG7ENRNg)
+    - 발표자: Jaejun Yoo
+    - https://arxiv.org/abs/1611.03530
+        - https://www.slideshare.net/thinkingfactory/pr12-understanding-deep-learning-requires-rethinking-generalization
+
+
+- [PR-062: Deep Learning: A Critical Appraisal](https://youtu.be/6hg5d10SZr0)
+    - 발표자: Terry Taewoong Um
+    - https://arxiv.org/abs/1801.00631
+        - https://www.slideshare.net/TerryTaewoongUm/deep-learning-a-critical-appraisal-2018
+
+
+- [PR-063: Peephole: Predicting Network Performance Before Training](https://youtu.be/ZO4bXgdcCQA)
+    - 발표자: Taegyun Jeon
+    - https://arxiv.org/abs/1712.03351
+
+
+- [PR-064: Wide&Deep Learning for Recommender Systems](https://youtu.be/hKoJPqWLrI4)
+    - 발표자: Keunbong Kwak
+    - https://arxiv.org/abs/1606.07792
+        - https://www.slideshare.net/keunbongkwak/widedeep-learning-for-recommender-systems
+
+
+- [PR-065: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://youtu.be/_5ofbwltEKU)
+    - 발표자: 이광희
+    - https://arxiv.org/abs/1711.11585
+
+- [PR-066: Don't decay the learning rate, increase the batch size](https://youtu.be/jFpO-E4RPhQ)
+    - 발표자: 차준범
+    - https://arxiv.org/abs/1711.00489
+
+
+- [PR-067: Audio Super Resolution using Neural Networks](https://youtu.be/iqN08EPMjSs)
+    - 발표자: Seungil Kim
+    - https://arxiv.org/abs/1708.00853
+        - http://www.modulabs.co.kr/DeepLAB_Paper/18909
+        - https://kuleshov.github.io/audio-super-res/
+
+
+- [PR-068: DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://youtu.be/okyo61ZZivA)
+    - 발표자: Jiyang Kim
+    - https://arxiv.org/abs/1704.04110
+
+
+- [PR-069: Efficient Neural Architecture Search via Parameter Sharing](https://youtu.be/fbCcJaSQPPA)
+    - 발표자: Jinwon Lee
+    - https://arxiv.org/abs/1802.03268
+        - https://www.slideshare.net/JinwonLee9/efficient-neural-architecture-search-via-parameter-sharing
+
+
+- [PR-070: SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud](https://youtu.be/CtaPFqq8P00)
+    - 발표자: Taesu Kim
+    - https://arxiv.org/abs/1706.10268
+        - https://www.slideshare.net/TaesuKim3/pr070-safetynets-verifiable-execution-of-deep-neural-networks-on-an-untrusted-cloud
+
+
+- [PR-071: Categorical Reparameterization with Gumbel Softmax](https://youtu.be/ty3SciyoIyk)
+    - 발표자: Jaejun Yoo
+    - https://arxiv.org/abs/1611.01144
+    - https://arxiv.org/abs/1611.00712
+        - https://www.slideshare.net/thinkingfactory/pr12-categorical-reparameterization-with-gumbel-softmax
 
