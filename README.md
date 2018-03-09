@@ -21,7 +21,17 @@ Tensorflow KR의 논문 발표 모음집
 * 이광희
 
 
+
 ## 발표 목록
+
+
+```
+- [논문 번호: 논문 제목](유투브 링크)
+    - 발표자
+    - 논문 링크
+        - 참고 문헌
+```
+
 - [PR-001: Generative adversarial nets](https://youtu.be/L3hz57whyNw)
     - 발표자: Jaejun Yoo
     - https://arxiv.org/abs/1406.2661
