@@ -425,3 +425,8 @@ Tensorflow KR의 논문 발표 모음집
     - https://arxiv.org/abs/1611.00712
         - https://www.slideshare.net/thinkingfactory/pr12-categorical-reparameterization-with-gumbel-softmax
 
+
+- [PR-072: Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://youtu.be/9mFZmpIbMDs)
+    - 발표자: Taeoh Kim
+    - https://arxiv.org/abs/1510.00149
+        - https://www.slideshare.net/TaeohKim4/pr072-deep-compression
