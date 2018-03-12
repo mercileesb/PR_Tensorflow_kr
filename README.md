@@ -19,7 +19,7 @@ Tensorflow KR의 논문 발표 모음집
 * Taesu Kim
 * Byung-hak Kim
 * 이광희
-
+* Taeoh Kim
 
 
 ## 발표 목록
