@@ -430,3 +430,9 @@ Tensorflow KR의 논문 발표 모음집
     - 발표자: Taeoh Kim
     - https://arxiv.org/abs/1510.00149
         - https://www.slideshare.net/TaeohKim4/pr072-deep-compression
+
+
+- [PR-073: Generative Semantic Manipulation with Contrasting GAN](https://youtu.be/U8IpNf1b57w)
+    - 발표자: 이광희
+    - https://arxiv.org/abs/1708.00315
+        - https://www.slideshare.net/KwangHeeLee12/pr073-generative-semantic-manipulation-with-contrasting-gan
