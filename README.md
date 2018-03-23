@@ -436,3 +436,9 @@ Tensorflow KR의 논문 발표 모음집
     - 발표자: 이광희
     - https://arxiv.org/abs/1708.00315
         - https://www.slideshare.net/KwangHeeLee12/pr073-generative-semantic-manipulation-with-contrasting-gan
+        
+
+- [PR-074: ObamaNet: Photo-realistic lip-sync from text](https://youtu.be/A1o6SUsWd98)
+    - 발표자: Byung-hak Kim
+    - https://nips2017creativity.github.io/doc/ObamaNet.pdf
+    
