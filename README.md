@@ -442,3 +442,10 @@ Tensorflow KR의 논문 발표 모음집
     - 발표자: Byung-hak Kim
     - https://nips2017creativity.github.io/doc/ObamaNet.pdf
     
+
+- [PR-075: On Calibration of Modern Neural Networks (2017)](https://youtu.be/odNHEkfJAc4)
+    - 발표자: Terry Taewoong Um
+    - https://arxiv.org/abs/1706.04599
+        - https://vimeo.com/238242536
+        - https://www.slideshare.net/TerryTaewoongUm/on-calibration-of-modern-neural-networks-2017
+    
