@@ -448,4 +448,9 @@ Tensorflow KR의 논문 발표 모음집
     - https://arxiv.org/abs/1706.04599
         - https://vimeo.com/238242536
         - https://www.slideshare.net/TerryTaewoongUm/on-calibration-of-modern-neural-networks-2017
-    
+
+
+- [PR-076: Distributed Representations of Sentences and Documents](https://youtu.be/NxKpgY6sWOQ)
+    - 발표자: Keunbong Kwak
+    - https://arxiv.org/abs/1405.4053
+        - https://www.slideshare.net/keunbongkwak/pr12-distributed-representations-of-sentences-and-documents
