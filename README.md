@@ -454,3 +454,15 @@ Tensorflow KR의 논문 발표 모음집
     - 발표자: Keunbong Kwak
     - https://arxiv.org/abs/1405.4053
         - https://www.slideshare.net/keunbongkwak/pr12-distributed-representations-of-sentences-and-documents
+
+- PR-077: not found
+
+- PR-078: not found
+
+
+- [PR-079: Synthesizing Audio with Generative Adversarial Networks](https://youtu.be/UXVKSSXdwb8)
+    - 발표자: Seungil Kim
+    - https://arxiv.org/pdf/1802.04208.pdf
+        - http://www.modulabs.co.kr/DeepLAB_Paper/19416
+        - http://wavegan-v1.s3-website-us-east-1.amazonaws.com/
+    
