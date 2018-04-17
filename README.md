@@ -465,4 +465,9 @@ Tensorflow KR의 논문 발표 모음집
     - https://arxiv.org/pdf/1802.04208.pdf
         - http://www.modulabs.co.kr/DeepLAB_Paper/19416
         - http://wavegan-v1.s3-website-us-east-1.amazonaws.com/
+        
+        
+- [PR-080: Practical Bayesian Optimization of Machine Learning Algorithms](https://www.youtube.com/watch?v=MnHCe8tGjQ8)
+    - 발표자: Jiyang Kang
+    - https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf
     
