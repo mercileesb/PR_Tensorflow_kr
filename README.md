@@ -471,3 +471,37 @@ Tensorflow KR의 논문 발표 모음집
     - 발표자: Jiyang Kang
     - https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf
     
+    
+- PR-081: not found    
+        
+- [PR-082: Introduction to Speech Separation](https://youtu.be/OgNSFKeHy8k)
+    - 발표자: Taesu Kim
+    - https://arxiv.org/pdf/1804.03619.pdf
+    - https://arxiv.org/pdf/1804.04121.pdf
+    
+- [PR-083: Non-local Neural Networks](https://youtu.be/ZM153wo3baA)
+    - 발표자: Taeoh Kim
+    - https://arxiv.org/abs/1711.07971.pdf
+        - https://www.slideshare.net/TaeohKim4/pr083-nonlocal-neural-networks
+ 
+ 
+- [PR-084 MegDet: A Large Mini-Batch Object Detector](https://youtu.be/nkYFEoKQBH0)
+    - 발표자: Taegyun Jeon
+    - https://arxiv.org/abs/1711.07240
+        
+
+- [PR-085: In-Datacenter Performance Analysis of a Tensor Processing Unit](https://youtu.be/7WhWkhFAIO4)
+    - 발표자: JinWon Lee
+    - https://arxiv.org/abs/1704.04760
+        - https://www.slideshare.net/JinwonLee9/in-datacenter-performance-analysis-of-a-tensor-processing-unit   
+                
+
+- [PR-086: Curriculum Learning](https://youtu.be/fQtuWEuwXrA)
+    - 발표자: 차준범
+    - https://youtu.be/fQtuWEuwXrA
+
+- [PR-087: Spectral Normalization for Generative Adversarial Networks](https://youtu.be/iXSYqohGQhM)
+    - 발표자: Jaejun Yoo
+    - https://openreview.net/pdf?id=B1QRgziT-
+        - https://www.slideshare.net/thinkingfactory/pr12-spectral-normalization-for-generative-adversarial-networks       
+ 
